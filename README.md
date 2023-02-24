@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=JManuelTG)
+![Codewars](https://github.r2v.ch/codewars?user=JManuelTG&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 <!--
 **JManuelTG/JManuelTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
