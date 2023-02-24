@@ -5,6 +5,7 @@
     </a>
 </p>
 
+= 🌱 I am finishing my Computer Engineering degree
 <!--
 **JManuelTG/JManuelTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
