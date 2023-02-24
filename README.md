@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src=![Codewars](https://github.r2v.ch/codewars?user=JManuelTG&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark) />
+      <img src=https://github.r2v.ch/codewars?user=JManuelTG&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark />
     </a>
 </p>
 
